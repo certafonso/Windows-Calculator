@@ -1,0 +1,9 @@
+P:\API\3_Visualbasic\calculadora_windows\calculadora_windows\bin\Debug\calculadora_windows.exe
+P:\API\3_Visualbasic\calculadora_windows\calculadora_windows\bin\Debug\calculadora_windows.pdb
+P:\API\3_Visualbasic\calculadora_windows\calculadora_windows\bin\Debug\calculadora_windows.xml
+P:\API\3_Visualbasic\calculadora_windows\calculadora_windows\obj\x86\Debug\WindowsApplication1.Form1.resources
+P:\API\3_Visualbasic\calculadora_windows\calculadora_windows\obj\x86\Debug\WindowsApplication1.Resources.resources
+P:\API\3_Visualbasic\calculadora_windows\calculadora_windows\obj\x86\Debug\calculadora_windows.vbproj.GenerateResource.Cache
+P:\API\3_Visualbasic\calculadora_windows\calculadora_windows\obj\x86\Debug\calculadora_windows.exe
+P:\API\3_Visualbasic\calculadora_windows\calculadora_windows\obj\x86\Debug\calculadora_windows.xml
+P:\API\3_Visualbasic\calculadora_windows\calculadora_windows\obj\x86\Debug\calculadora_windows.pdb
